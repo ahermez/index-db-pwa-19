@@ -45,7 +45,7 @@ module.exports = () => {
         ],
       }),
     ],
-
+// webpack is cool
     module: {
       rules: [
         {
